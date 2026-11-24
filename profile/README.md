@@ -57,6 +57,13 @@
 
 <p align="center"><sub>Every template has a live preview at <code>&lt;template&gt;.usetemplates.store</code>. See the full catalogue at <a href="https://usetemplates.store">usetemplates.store</a>.</sub></p>
 
+### From the blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<sub>Guides, tutorials and template showcases. Read them all at <a href="https://usetemplates.store/blog">usetemplates.store/blog</a>.</sub>
+
 ### How buyer access works
 
 1. **Pick a template** at [usetemplates.store](https://usetemplates.store) and try its live preview.
